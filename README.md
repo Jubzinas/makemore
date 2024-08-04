@@ -1,6 +1,7 @@
 # Makemore Neural Network
 
 Makemore is a simple neural network designed to generate new words based on a given training dataset of words. This model can be particularly useful for creative applications, such as generating names, fictional languages, or other text-based data where new word creation is desired.
+It has been created following nn zero to hero course of Andrej Karpathy.
 
 ## Features
 
