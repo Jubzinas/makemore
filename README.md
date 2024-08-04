@@ -1,0 +1,2 @@
+# makemore
+Makemore NN network
