@@ -9,9 +9,7 @@ It has been created following nn zero to hero course of Andrej Karpathy.
 - Generate new words based on the patterns learned from the training dataset.
 - Simple implementation using PyTorch.
 
-## Installation
+## GPT
 
-1. **Clone the Repository**
-   ```sh
-   git clone https://github.com/yourusername/makemore.git
-   cd makemore
+Complete visualization of Neural Net built using simple Transformer
+[Neural Net Visualization](GPT/GPT_Visualization.pdf)
